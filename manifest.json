@@ -1,5 +1,5 @@
 {
-  "name": "<YOUR CHROME EXTENSION'S NAME>",
+  "name": "<NAME>",
   "version": "0.0.1",
   "manifest_version": 2,
   "content_scripts": [
